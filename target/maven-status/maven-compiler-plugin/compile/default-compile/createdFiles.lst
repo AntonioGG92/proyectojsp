@@ -1,0 +1,15 @@
+modelo\Proyecto.class
+com\mycompany\proyectojsp\resources\JakartaEE8Resource.class
+dao\ProyectoDAO.class
+servlets\EliminarProyectoServlet.class
+servlets\EliminarTareaServlet.class
+servlets\CambiarEstadoProyectoServlet.class
+com\mycompany\proyectojsp\JakartaRestConfiguration.class
+modelo\Tarea.class
+servlets\NuevoProyectoServlet.class
+util\HibernateUtil.class
+dao\TareaDAO.class
+servlets\ListaProyectosServlet.class
+servlets\ActualizarEstadoProyectoServlet.class
+servlets\ListarTareaServlet.class
+servlets\NuevaTareaServlet.class
